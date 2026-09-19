@@ -5,6 +5,7 @@ Importable FT2 working frequencies for IARU Region 1.
 ## Region 1 frequencies
 
 | Band | Frequency |
+| --- | ---: |
 | 80 m | 3.578 MHz |
 | 40 m | 7.052 MHz |
 | 30 m | 10.144 MHz |
@@ -14,24 +15,34 @@ Importable FT2 working frequencies for IARU Region 1.
 | 12 m | 24.923 MHz |
 | 10 m | 28.184 MHz |
 
-## How to import to WSJT-X
+## Windows import
 
-### 1. Download the file
+### 1. Back up your current frequencies
+
+Before importing anything, save a backup of the Working Frequencies table:
+
+1. Start WSJT-X and open **File -> Settings -> Frequencies**.
+2. Right-click inside the Working Frequencies table.
+3. Choose **Save as**.
+4. Save the file in a known folder, for example `Documents\\WSJT-X Backups`.
+5. Keep this backup unchanged. It lets you restore your current table if needed.
+
+### 2. Download an FT2 file
 
 Choose one file from this repository:
 
 - `WSJTX FT2 Region 1.qrg.json` - recommended. All entries have `preferred: false`.
 - `WSJTX FT2 Region 1 preferred.qrg.json` - optional. All entries have `preferred: true`.
 
-Click the file name, click **Raw**, then use the browser download option. Save the file to a normal local folder such as `Downloads`. Do not copy the web page and do not change the `.qrg.json` extension.
+Click the file name, click **Raw**, then use the browser download option. Save the file to a known local folder such as `Downloads`. Do not copy the web page and do not change the `.qrg.json` extension.
 
-### 2. Open WSJT-X settings
+### 3. Set the WSJT-X region
 
-1. Start WSJT-X.
-2. Open **File -> Settings**.
+1. In WSJT-X, open **File -> Settings -> General**.
+2. Set **IARU Region** to **Region 1**.
 3. Open the **Frequencies** tab.
 
-### 3. Merge the downloaded file
+### 4. Merge the downloaded file
 
 1. Right-click inside the Working Frequencies table.
 2. Choose **Merge**. Do not choose **Load**: Load replaces the existing table.
@@ -39,7 +50,7 @@ Click the file name, click **Raw**, then use the browser download option. Save t
 4. Select it and confirm.
 5. Click **OK** in Settings.
 
-### 4. Check the result
+### 5. Check the result
 
 The imported rows should show:
 
@@ -47,7 +58,6 @@ The imported rows should show:
 - Mode: `FT2`
 - Frequencies: the eight values listed above
 
-With the recommended file, choose your own preferred row in the Frequencies table. 
-The preferred variant marks every row as preferred and is optional.
+With the recommended file, choose your own preferred row in the Frequencies table. The preferred variant marks every row as preferred and is optional.
 
 These are experimental/community operating frequencies. Check current band plans and local regulations before transmitting.
