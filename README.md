@@ -5,7 +5,6 @@ Importable FT2 working frequencies for IARU Region 1.
 ## Region 1 frequencies
 
 | Band | Frequency |
-| --- | ---: |
 | 80 m | 3.578 MHz |
 | 40 m | 7.052 MHz |
 | 30 m | 10.144 MHz |
@@ -15,7 +14,7 @@ Importable FT2 working frequencies for IARU Region 1.
 | 12 m | 24.923 MHz |
 | 10 m | 28.184 MHz |
 
-## Foolproof Windows import
+## How to import to WSJT-X
 
 ### 1. Download the file
 
@@ -30,8 +29,7 @@ Click the file name, click **Raw**, then use the browser download option. Save t
 
 1. Start WSJT-X.
 2. Open **File -> Settings**.
-3. Open the **General** tab and set **IARU Region** to **Region 1**.
-4. Open the **Frequencies** tab.
+3. Open the **Frequencies** tab.
 
 ### 3. Merge the downloaded file
 
@@ -49,6 +47,7 @@ The imported rows should show:
 - Mode: `FT2`
 - Frequencies: the eight values listed above
 
-With the recommended file, choose your own preferred row in the Frequencies table. The preferred variant marks every row as preferred and is optional.
+With the recommended file, choose your own preferred row in the Frequencies table. 
+The preferred variant marks every row as preferred and is optional.
 
 These are experimental/community operating frequencies. Check current band plans and local regulations before transmitting.
