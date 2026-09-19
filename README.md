@@ -36,7 +36,7 @@ Choose one file from this repository:
 
 Click the file name, click **Raw**, then use the browser download option. Save the file to a known local folder such as `Downloads`. Do not copy the web page and do not change the `.qrg.json` extension.
 
-### 3. Set the WSJT-X region
+### 3. Set the WSJT-X region (Optional)
 
 1. In WSJT-X, open **File -> Settings -> General**.
 2. Set **IARU Region** to **Region 1**.
@@ -44,11 +44,12 @@ Click the file name, click **Raw**, then use the browser download option. Save t
 
 ### 4. Merge the downloaded file
 
-1. Right-click inside the Working Frequencies table.
-2. Choose **Merge**. Do not choose **Load**: Load replaces the existing table.
-3. Browse to the downloaded `.qrg.json` file in `Downloads` or the folder where you saved it.
-4. Select it and confirm.
-5. Click **OK** in Settings.
+1. In WSJT-X, open **File -> Settings -> Frequencies**.
+2. Right-click inside the Working Frequencies table.
+3. Choose **Merge**. Do not choose **Load**: Load replaces the existing table.
+4. Browse to the downloaded `.qrg.json` file in `Downloads` or the folder where you saved it.
+5. Select it and confirm.
+6. Click **OK** in Settings.
 
 ### 5. Check the result
 
