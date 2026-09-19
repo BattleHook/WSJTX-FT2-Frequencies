@@ -1,0 +1,90 @@
+{
+  "wsjtx_file": "qrg",
+  "wsjtx_version": "3.0.2",
+  "generated_at": "2026-09-19T00:00:00Z",
+  "wsjtx_filetype": "0xADBCCBDB",
+  "qrg_version": "0x65",
+  "frequency_count": 8,
+  "frequencies": [
+    {
+      "frequency": "3.578",
+      "mode": "FT2",
+      "region": "R1",
+      "description": "FT2 Region 1 - 80 m",
+      "source": "WSJT-X Groups.io",
+      "start_time": "",
+      "end_time": "",
+      "preferred": true
+    },
+    {
+      "frequency": "7.052",
+      "mode": "FT2",
+      "region": "R1",
+      "description": "FT2 Region 1 - 40 m",
+      "source": "WSJT-X Groups.io",
+      "start_time": "",
+      "end_time": "",
+      "preferred": true
+    },
+    {
+      "frequency": "10.144",
+      "mode": "FT2",
+      "region": "R1",
+      "description": "FT2 Region 1 - 30 m",
+      "source": "WSJT-X Groups.io",
+      "start_time": "",
+      "end_time": "",
+      "preferred": true
+    },
+    {
+      "frequency": "14.084",
+      "mode": "FT2",
+      "region": "R1",
+      "description": "FT2 Region 1 - 20 m",
+      "source": "WSJT-X Groups.io",
+      "start_time": "",
+      "end_time": "",
+      "preferred": true
+    },
+    {
+      "frequency": "18.108",
+      "mode": "FT2",
+      "region": "R1",
+      "description": "FT2 Region 1 - 17 m",
+      "source": "WSJT-X Groups.io",
+      "start_time": "",
+      "end_time": "",
+      "preferred": true
+    },
+    {
+      "frequency": "21.144",
+      "mode": "FT2",
+      "region": "R1",
+      "description": "FT2 Region 1 - 15 m",
+      "source": "WSJT-X Groups.io",
+      "start_time": "",
+      "end_time": "",
+      "preferred": true
+    },
+    {
+      "frequency": "24.923",
+      "mode": "FT2",
+      "region": "R1",
+      "description": "FT2 Region 1 - 12 m",
+      "source": "WSJT-X Groups.io",
+      "start_time": "",
+      "end_time": "",
+      "preferred": true
+    },
+    {
+      "frequency": "28.184",
+      "mode": "FT2",
+      "region": "R1",
+      "description": "FT2 Region 1 - 10 m",
+      "source": "WSJT-X Groups.io",
+      "start_time": "",
+      "end_time": "",
+      "preferred": true
+    }
+  ]
+}

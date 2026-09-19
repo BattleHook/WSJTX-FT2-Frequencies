@@ -1,0 +1,22 @@
+# WSJT-X FT2 Frequencies
+
+Importable FT2 working frequencies for IARU Region 1.
+
+## Region 1 frequencies
+
+| Band | Frequency |
+| --- | ---: |
+| 80 m | 3.578 MHz |
+| 40 m | 7.052 MHz |
+| 30 m | 10.144 MHz |
+| 20 m | 14.084 MHz |
+| 17 m | 18.108 MHz |
+| 15 m | 21.144 MHz |
+| 12 m | 24.923 MHz |
+| 10 m | 28.184 MHz |
+
+## Import
+
+In a WSJT-X build that supports FT2 and QRG JSON files, open **File -> Settings -> Frequencies**, right-click the frequency table, choose **Load**, and select `WSJTX FT2 Region 1.qrg.json`. Use **Merge** to retain existing frequencies.
+
+These are experimental/community operating frequencies. Check current band plans and local regulations before transmitting.
