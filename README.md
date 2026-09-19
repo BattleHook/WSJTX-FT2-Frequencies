@@ -4,16 +4,18 @@ Importable FT2 working frequencies for IARU Region 1.
 
 ## Region 1 frequencies
 
-| Band | Frequency |
-| --- | ---: |
-| 80 m | 3.578 MHz |
-| 40 m | 7.052 MHz |
-| 30 m | 10.144 MHz |
-| 20 m | 14.084 MHz |
-| 17 m | 18.108 MHz |
-| 15 m | 21.144 MHz |
-| 12 m | 24.923 MHz |
-| 10 m | 28.184 MHz |
+| Band | Frequency | Description |
+| --- | ---: | --- |
+| 80 m | 3.578 MHz | FT2 Region 1 - 80 m |
+| 40 m | 7.052 MHz | FT2 Region 1 - 40 m |
+| 30 m | 10.144 MHz | FT2 Region 1 - 30 m |
+| 20 m | 14.084 MHz | FT2 Region 1 - 20 m |
+| 17 m | 18.108 MHz | FT2 Region 1 - 17 m |
+| 15 m | 21.144 MHz | FT2 Region 1 - 15 m |
+| 12 m | 24.923 MHz | FT2 Region 1 - 12 m |
+| 10 m | 28.184 MHz | FT2 Region 1 - 10 m |
+
+The descriptions above are also stored in the imported JSON and appear in the WSJT-X Working Frequencies table after merging.
 
 ## Windows import
 
@@ -58,6 +60,7 @@ The imported rows should show:
 - IARU Region: `Region 1`
 - Mode: `FT2`
 - Frequencies: the eight values listed above
+- Description: the matching band description from the table above
 
 With the recommended file, choose your own preferred row in the Frequencies table. The preferred variant marks every row as preferred and is optional.
 
