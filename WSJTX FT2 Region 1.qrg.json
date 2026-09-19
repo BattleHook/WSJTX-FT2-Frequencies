@@ -5,7 +5,7 @@
       "end_time": "",
       "frequency": "3.578000",
       "mode": "FT2",
-      "preferred": true,
+      "preferred": false,
       "region": "Region 1",
       "source": "WSJT-X Groups.io",
       "start_time": ""
@@ -15,7 +15,7 @@
       "end_time": "",
       "frequency": "7.052000",
       "mode": "FT2",
-      "preferred": true,
+      "preferred": false,
       "region": "Region 1",
       "source": "WSJT-X Groups.io",
       "start_time": ""
@@ -25,7 +25,7 @@
       "end_time": "",
       "frequency": "10.144000",
       "mode": "FT2",
-      "preferred": true,
+      "preferred": false,
       "region": "Region 1",
       "source": "WSJT-X Groups.io",
       "start_time": ""
@@ -35,7 +35,7 @@
       "end_time": "",
       "frequency": "14.084000",
       "mode": "FT2",
-      "preferred": true,
+      "preferred": false,
       "region": "Region 1",
       "source": "WSJT-X Groups.io",
       "start_time": ""
@@ -45,7 +45,7 @@
       "end_time": "",
       "frequency": "18.108000",
       "mode": "FT2",
-      "preferred": true,
+      "preferred": false,
       "region": "Region 1",
       "source": "WSJT-X Groups.io",
       "start_time": ""
@@ -55,7 +55,7 @@
       "end_time": "",
       "frequency": "21.144000",
       "mode": "FT2",
-      "preferred": true,
+      "preferred": false,
       "region": "Region 1",
       "source": "WSJT-X Groups.io",
       "start_time": ""
@@ -65,7 +65,7 @@
       "end_time": "",
       "frequency": "24.923000",
       "mode": "FT2",
-      "preferred": true,
+      "preferred": false,
       "region": "Region 1",
       "source": "WSJT-X Groups.io",
       "start_time": ""
@@ -75,7 +75,7 @@
       "end_time": "",
       "frequency": "28.184000",
       "mode": "FT2",
-      "preferred": true,
+      "preferred": false,
       "region": "Region 1",
       "source": "WSJT-X Groups.io",
       "start_time": ""
