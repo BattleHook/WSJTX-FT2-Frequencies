@@ -1,0 +1,90 @@
+{
+  "frequencies": [
+    {
+      "description": "FT2 Region 1 - 80 m",
+      "end_time": "",
+      "frequency": "3.578000",
+      "mode": "FT2",
+      "preferred": true,
+      "region": "Region 1",
+      "source": "WSJT-X Groups.io",
+      "start_time": ""
+    },
+    {
+      "description": "FT2 Region 1 - 40 m",
+      "end_time": "",
+      "frequency": "7.052000",
+      "mode": "FT2",
+      "preferred": true,
+      "region": "Region 1",
+      "source": "WSJT-X Groups.io",
+      "start_time": ""
+    },
+    {
+      "description": "FT2 Region 1 - 30 m",
+      "end_time": "",
+      "frequency": "10.144000",
+      "mode": "FT2",
+      "preferred": true,
+      "region": "Region 1",
+      "source": "WSJT-X Groups.io",
+      "start_time": ""
+    },
+    {
+      "description": "FT2 Region 1 - 20 m",
+      "end_time": "",
+      "frequency": "14.084000",
+      "mode": "FT2",
+      "preferred": true,
+      "region": "Region 1",
+      "source": "WSJT-X Groups.io",
+      "start_time": ""
+    },
+    {
+      "description": "FT2 Region 1 - 17 m",
+      "end_time": "",
+      "frequency": "18.108000",
+      "mode": "FT2",
+      "preferred": true,
+      "region": "Region 1",
+      "source": "WSJT-X Groups.io",
+      "start_time": ""
+    },
+    {
+      "description": "FT2 Region 1 - 15 m",
+      "end_time": "",
+      "frequency": "21.144000",
+      "mode": "FT2",
+      "preferred": true,
+      "region": "Region 1",
+      "source": "WSJT-X Groups.io",
+      "start_time": ""
+    },
+    {
+      "description": "FT2 Region 1 - 12 m",
+      "end_time": "",
+      "frequency": "24.923000",
+      "mode": "FT2",
+      "preferred": true,
+      "region": "Region 1",
+      "source": "WSJT-X Groups.io",
+      "start_time": ""
+    },
+    {
+      "description": "FT2 Region 1 - 10 m",
+      "end_time": "",
+      "frequency": "28.184000",
+      "mode": "FT2",
+      "preferred": true,
+      "region": "Region 1",
+      "source": "WSJT-X Groups.io",
+      "start_time": ""
+    }
+  ],
+  "frequency_count": 8,
+  "generated_at": "2026-09-19T13:19:29Z",
+  "qrg_version": "0x65",
+  "wsjtx_file": "qrg",
+  "wsjtx_filetype": "0xADBCCBDB",
+  "wsjtx_version": "3.2.0 260818"
+}
