@@ -2,6 +2,10 @@
 
 Importable FT2 working frequencies for IARU Region 1.
 
+# About
+
+Support BattleHook on Ko-fi: https://ko-fi.com/battlehook
+
 ## Region 1 frequencies
 
 | Band | Frequency | Description |
